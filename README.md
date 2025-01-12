@@ -1,4 +1,4 @@
-# data-sourcing-challenge - retreive NASA data
+# data-sourcing-challenge - retrieve NASA data
 Module 6 homework
 
 ### Authored by Blair Sonnen for the AI Bootcamp West 
@@ -18,7 +18,7 @@ This code must be run from *retreive_data.ipynb* in the same root directory as a
 
 The following files must be present for the code to work:
 
-* Output => merged_data0.csv
+* Output => merged_data.csv
 * README.md		
 * retreive_data.ipynb
 
